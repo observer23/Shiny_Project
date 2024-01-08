@@ -27,7 +27,7 @@ Projeyi yerel makinenizde çalıştırmak için:
 
 1. Bu repo'yu klonlayın veya indirin.
 2. R ve gerekli paketler (`shiny`, `ggplot2`, `DT`, `corrplot`, `GGally`) yüklü olduğundan emin olun.
-3. Uygulamayı başlatmak için `app.R` dosyasını R'de çalıştırın.
+3. Uygulamayı başlatmak için `Shiny_App.R` dosyasını R'de çalıştırın.
 
 ## Kullanım
 
